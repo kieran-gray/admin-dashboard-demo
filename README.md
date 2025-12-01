@@ -1,5 +1,9 @@
 # Admin Dashboard Demo
 
+![Admin Dashboard](docs/home.png)
+
+### [Live demo version](https://admin-demo.kgdev.me/)
+
 I made this admin dashboard for two reasons.
 
 1. I needed a dashboard to track contact-us messages and notifications.
